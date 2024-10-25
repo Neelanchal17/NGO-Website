@@ -12,7 +12,7 @@
 p {
     font-size: 1.3em;
 }
-
+/* 
 #left-header {
     height: 100%;
     max-width: 30px;
@@ -23,13 +23,13 @@ p {
     left: 0;
     overflow-x: hidden;
     padding-top: 10px;
-}
+} */
 
 .homeimg {
     background-color: white;
 }
 
-#right-header {
+/* #right-header {
     padding-top: 10px;
     height: 100%;
     width: 30px;
@@ -38,7 +38,7 @@ p {
     top: 0;
     right: 0;
     background-color: white;
-}
+} */
 
 .mainText {
     padding-top: 2rem;
